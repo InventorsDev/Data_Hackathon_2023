@@ -33,9 +33,9 @@ Sentiment analysis is contextual mining of text which identifies and extracts su
 
 
 ### Resources
-Get started with NLP and text classification with our latest offering ‘[Natural Language Processing (NLP) using Python](https://trainings.analyticsvidhya.com/courses/course-v1:AnalyticsVidhya+NLP101+2018_T1/about?utm_source=practice_problem_Identify_The_Sentiments&utm_medium=Datahack)’ course
-Refer this [comprehensive guide](https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/) that exhaustively covers text classification techniques using different libraries and its implementation in python.
-You can also refer this [guide](https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/) that covers multiple techniques including TF-IDF, Word2Vec etc. to tackle problems related to Sentiment Analysis.
+- Get started with NLP and text classification with our latest offering ‘[Natural Language Processing (NLP) using Python](https://trainings.analyticsvidhya.com/courses/course-v1:AnalyticsVidhya+NLP101+2018_T1/about?utm_source=practice_problem_Identify_The_Sentiments&utm_medium=Datahack)’ course
+- Refer this [comprehensive guide](https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/) that exhaustively covers text classification techniques using different libraries and its implementation in python.
+- You can also refer this [guide](https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/) that covers multiple techniques including TF-IDF, Word2Vec etc. to tackle problems related to Sentiment Analysis.
 
 
 
