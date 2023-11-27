@@ -1,18 +1,13 @@
 # Data_Hackathon_2023
-Compete in this hackathon to win, practice, learn and build your Data Science portfolio. This hackathons enable you to compete with leading data scientists and machine learning experts in the world.
+Compete in this hackathon to win, practice, learn and build your Data Science portfolio. These hackathons enable you to compete with leading data scientists and machine learning experts in the world.
 
+## Task
 Sentiment analysis remains one of the key problems that has seen extensive application of natural language processing. 
 This time around, given the tweets from customers about various tech firms who manufacture and sell mobiles, computers, laptops, etc, the task is to 
 identify if the tweets have a negative sentiment towards such companies or products.
 
- 
-
 ### Evaluation Metric
 The metric used for evaluating the performance of classification model would be weighted F1-Score.
- 
-
-### Public and Private Split
-Note that the test data is further randomly divided into Public (35%) and Private (65%) data. Your initial responses will be checked and scored on the Public data. The final rankings would be based on your private score which will be published once the competition is over.
 
 
 ## Data
@@ -22,24 +17,25 @@ Note that the test data is further randomly divided into Public (35%) and Privat
 
 - sample_submission.csv - The exact format for a valid submission
 
-Most profane and vulgar terms in the tweets have been replaced with “$&@*#”. However, please note that the dataset still might contain text that may be considered profane, vulgar, or offensive.
+**Most profane and vulgar terms in the tweets have been replaced with “$&@*#”. However, please note that the dataset still might contain text that may be considered profane, vulgar, or offensive.**
 
-About Practice Problem: Identify the Sentiments
+## Rules
+- This hackathon should only be done by an individual.
+- You can use any programming language or statistical software.
+- You are free to use any tool and machine you have rightful access to.
+- You should upload your solution to GitHub.
+- Download and use only the dataset in this repository, the `sample_submission.csv` is the exact format for a valid submission.
+
+
+### About Practice Problem: Identify the Sentiments
+
 Sentiment analysis is contextual mining of text which identifies and extracts subjective information in source material, and helping a business to understand the social sentiment of their brand, product or service while monitoring online conversations. Brands can use this data to measure the success of their products in an objective manner. In this challenge, you are provided with tweet data to predict sentiment on electronic products of netizens.
 
 
-Rules
-- One person cannot participate with more than one user accounts.
-- This is proprietary dataset, you can only use for this hackathon (Analytics Vidhya Datahack Platform) not for any other reuse
-- You are free to use any tool and machine you have rightful access to.
-- You can use any programming language or statistical software.
-- You are free to use solution checker as many times as you want.
-
-
-Data Science Resources
-Get started with NLP and text classification with our latest offering ‘Natural Language Processing (NLP) using Python’ course
-Refer this comprehensive guide that exhaustively covers text classification techniques using different libraries and its implementation in python.
-You can also refer this guide that covers multiple techniques including TF-IDF, Word2Vec etc. to tackle problems related to Sentiment Analysis.
+### Resources
+Get started with NLP and text classification with our latest offering ‘[Natural Language Processing (NLP) using Python](https://trainings.analyticsvidhya.com/courses/course-v1:AnalyticsVidhya+NLP101+2018_T1/about?utm_source=practice_problem_Identify_The_Sentiments&utm_medium=Datahack)’ course
+Refer this [comprehensive guide](https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/) that exhaustively covers text classification techniques using different libraries and its implementation in python.
+You can also refer this [guide](https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/) that covers multiple techniques including TF-IDF, Word2Vec etc. to tackle problems related to Sentiment Analysis.
 
 
 
