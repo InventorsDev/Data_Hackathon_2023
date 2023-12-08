@@ -6,6 +6,9 @@ Sentiment analysis remains one of the key problems that has seen extensive appli
 This time around, given the tweets from customers about various tech firms who manufacture and sell mobiles, computers, laptops, etc, the task is to 
 identify if the tweets have a negative sentiment towards such companies or products.
 
+## Duration ⏰ 
+The duration of this hackathon is **12 hours**
+
 ### Evaluation Metric
 The metric used for evaluating the performance of classification model would be weighted F1-Score.
 
