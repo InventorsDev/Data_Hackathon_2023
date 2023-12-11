@@ -26,10 +26,9 @@ The metric used for evaluating the performance of classification model would be 
 - This hackathon should only be done by an individual.
 - You can use any programming language or statistical software.
 - You are free to use any tool and machine you have rightful access to.
-- You should upload your solution to GitHub, and link should be sent to this email [ dinventorshub@gmail.com ]
+- You should upload your solution to GitHub, and the link should be sent to this email: dinventorshub@gmail.com
 - Download and use only the dataset in this repository, the `sample_submission.csv` is the exact format for a valid submission.
 - Submission time matters, the first to submit has a higher point.
-- 
 
 
 ### About Practice Problem: Identify the Sentiments 📑
