@@ -28,6 +28,7 @@ The metric used for evaluating the performance of classification model would be 
 - You are free to use any tool and machine you have rightful access to.
 - You should upload your solution to GitHub.
 - Download and use only the dataset in this repository, the `sample_submission.csv` is the exact format for a valid submission.
+- Submission time matters, the first to submit has a higher point.
 
 
 ### About Practice Problem: Identify the Sentiments 📑
