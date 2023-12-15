@@ -7,7 +7,7 @@ This time around, given the tweets from customers about various tech firms who m
 identify if the tweets have a negative sentiment towards such companies or products.
 
 ## Duration ⏰ 
-The duration of this hackathon is **12 hours**.
+The duration of this hackathon is **12 hours**. From 1:30pm WAT 15/12/2023 - 1:30am 16/12/2023
 
 ### Evaluation Metric
 The metric used for evaluating the performance of classification model would be weighted F1-Score.
