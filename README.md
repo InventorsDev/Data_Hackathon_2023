@@ -14,7 +14,7 @@ The metric used for evaluating the performance of the classification model would
 
 
 ## Data ⛓
-- `train.csv` - For training the models, we provide a labelled dataset of 7920 tweets. The dataset is provided in the form of a csv file with each line storing a tweet id, its label and the tweet.
+- `train.csv` - For training the models, we provide a labeled dataset of 7920 tweets. The dataset is provided in the form of a csv file with each line storing a tweet ID, its label, and the tweet.
 
 - `test.csv` - The test data file contains only tweet ids and the tweet text with each tweet in a new line.
 
