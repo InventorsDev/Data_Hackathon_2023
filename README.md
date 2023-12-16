@@ -1,5 +1,5 @@
 # Data_Hackathon_2023
-Compete in this hackathon to win, practice, learn and build your Data Science portfolio. These hackathons enable you to compete with leading data scientists and machine learning experts in the world.
+Compete in this hackathon to win, practice, learn, and build your Data Science portfolio. These hackathons enable you to compete with leading data scientists and machine learning experts in the world.
 
 ## Task 🎯
 Sentiment analysis remains one of the key problems that has seen extensive application of natural language processing. 
@@ -10,7 +10,7 @@ identify if the tweets have a negative sentiment towards such companies or produ
 The duration of this hackathon is **12 hours**. From 1:30pm WAT 15/12/2023 - 1:30am 16/12/2023
 
 ### Evaluation Metric
-The metric used for evaluating the performance of classification model would be weighted F1-Score.
+The metric used for evaluating the performance of the classification model would be weighted F1-Score.
 
 
 ## Data ⛓
