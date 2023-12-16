@@ -33,7 +33,7 @@ The metric used for evaluating the performance of the classification model would
 
 ### About Practice Problem: Identify the Sentiments 📑
 
-Sentiment analysis is contextual mining of text that identifies and extracts subjective information in the source material and helps a business to understand the social sentiment of their brand, product or service while monitoring online conversations. Brands can use this data to measure the success of their products in an objective manner. In this challenge, you are provided with tweet data to predict sentiment on electronic products of netizens.
+Sentiment analysis is contextual mining of text that identifies and extracts subjective information in the source material and helps a business to understand the social sentiment of their brand, product, or service while monitoring online conversations. Brands can use this data to measure the success of their products in an objective manner. In this challenge, you are provided with tweet data to predict sentiment on electronic products of netizens.
 
 
 ### Resources 🧰
