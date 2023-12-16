@@ -11,4 +11,5 @@
 |Interpretability of Results   | 10                   |
 |Report Clarity and Structure  | 10                   |
 |Code Quality	                 | 10                   |
+|  --------------              | ---------------      |
 |Total Points                  | 100                  |
