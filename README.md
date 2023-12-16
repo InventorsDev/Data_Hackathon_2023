@@ -18,7 +18,7 @@ The metric used for evaluating the performance of classification model would be 
 
 - `test.csv` - The test data file contains only tweet ids and the tweet text with each tweet in a new line.
 
-- sample_submission.csv - The exact format for a valid submission
+- `sample_submission.csv` - The exact format for a valid submission
 
 **Most profane and vulgar terms in the tweets have been replaced with “$&@*#”. However, please note that the dataset still might contain text that may be considered profane, vulgar, or offensive.**
 
